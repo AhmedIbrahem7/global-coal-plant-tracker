@@ -1,0 +1,1 @@
+# global-coal-plant-tracker
