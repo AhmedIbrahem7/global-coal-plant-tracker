@@ -50,8 +50,11 @@ This project analyzes global coal power plant data to answer key business questi
 - Geographic filtering
 
 ---
-
 ## 🚀 Live Demo
 
-👉 Try the app here:  
-[https://your-app-name.streamlit.app](https://global-coal-plant-trackergit-jgma2mpvgafhchyhfbpstw.streamlit.app/)
+🌍 Explore the dashboard live:  
+👉 (https://global-coal-plant-trackergit-jgma2mpvgafhchyhfbpstw.streamlit.app/)
+
+---
+
+⚡ Built with Streamlit for interactive data exploration
