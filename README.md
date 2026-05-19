@@ -55,8 +55,3 @@ This project analyzes global coal power plant data to answer key business questi
 
 👉 Try the app here:  
 https://global-coal-plant-trackergit-jgma2mpvgafhchyhfbpstw.streamlit.app/
-## 🚀 How to Run the Project Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
