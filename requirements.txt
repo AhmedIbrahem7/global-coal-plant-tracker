@@ -1,0 +1,5 @@
+#Make sure to install the required libraries before running the code
+streamlit
+pandas
+plotly
+numpy
